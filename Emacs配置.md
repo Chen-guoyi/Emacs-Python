@@ -15,4 +15,6 @@
 [环境配置](https://cloud.tencent.com/developer/article/1177558)
 
 # Emacs 配置 Python
+[参考配置](https://realpython.com/emacs-the-best-python-editor/)
+我的配置是参照了 realpython 。因版本问题，稍微调整了一下
 
