@@ -9,7 +9,7 @@
 
 # Python 安装
 [Python官网](https://www.python.org/)
-#### 1. 这里不讨论 Python2/Python3 优劣选择，直接下载 Python3
+#### 1. 这里不讨论 Python2/Python3 优劣选择，直接下载 Python3 最新版本
 #### 2. 安装在你想安装的磁盘（我装在C盘）
 #### 3. 环境变量设置
 [环境配置](https://cloud.tencent.com/developer/article/1177558)
